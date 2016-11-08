@@ -1,0 +1,1 @@
+node_modules/svg-resizer/svg-resizer.js -f -x 48 -y 48 --output flaticon build/*.svg

@@ -1,0 +1,16 @@
+{
+	"name": "redaxscript-flaticon",
+	"description": "Flaticon pack for Redaxscript's website",
+	"version": "3.0.0",
+	"homepage": "http://redaxscript.com",
+	"license": "GPL-3.0",
+	"author":
+	{
+		"name": "Henry Ruhs",
+		"url": "http://redaxmedia.com"
+	},
+	"devDependencies":
+	{
+		"svg-resizer": "*"
+	}
+}
