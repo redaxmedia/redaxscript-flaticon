@@ -129,10 +129,10 @@ Redaxscript Flaticon
 		<tr>
 			<td>pins-and-locations</td>
 			<td>madebyoliver</td>
-  		</tr>
-  		<tr>
+		</tr>
+		<tr>
 			<td>productivity</td>
-  			<td>madebyoliver</td>
+			<td>madebyoliver</td>
 		</tr>
 		<tr>
 			<td>productivity-and-development</td>
@@ -212,6 +212,10 @@ Redaxscript Flaticon
 		</tr>
 		<tr>
 			<td>web-design</td>
+			<td>freepik</td>
+		</tr>
+		<tr>
+			<td>web-interface</td>
 			<td>freepik</td>
 		</tr>
 		<tr>
