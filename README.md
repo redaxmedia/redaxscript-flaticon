@@ -3,226 +3,65 @@ Redaxscript Flaticon
 
 > Flaticon pack for Redaxscript's website.
 
-<table>
-	<thead>
-		<tr>
-			<th>Name</th>
-			<th>Author</th>
-		</tr>
-	</thead>
-	<tbody>
-		<tr>
-			<td>army-badges</td>
-			<td>madebyoliver</td>
-		</tr>
-		<tr>			
-			<td>arrows</td>
-			<td>madebyoliver</td>
-		</tr>
-		<tr>
-			<td>baby</td>
-			<td>madebyoliver</td>
-		</tr>
-		<tr>
-			<td>business</td>
-			<td>madebyoliver</td>
-		</tr>
-			<td>casino-gambling</td>
-			<td>madebyoliver</td>
-		</tr>
-		<tr>
-			<td>coffee-shop</td>
-			<td>madebyoliver</td>
-		</tr>
-		<tr>
-			<td>constructions</td>
-			<td>madebyoliver</td>
-		</tr>
-		<tr>
-			<td>delivery</td>
-			<td>madebyoliver</td>
-		</tr>
-		<tr>
-			<td>design</td>
-			<td>madebyoliver</td>
-		</tr>
-		<tr>
-			<td>dialogue</td>
-			<td>madebyoliver</td>
-		</tr>
-		<tr>
-			<td>education</td>
-			<td>madebyoliver</td>
-		</tr>
-		<tr>
-			<td>emoticons</td>
-			<td>madebyoliver</td>
-		</tr>
-		<tr>
-			<td>essential</td>
-			<td>madebyoliver</td>
-		</tr>
-		<tr>
-			<td>files-and-folders</td>
-			<td>madebyoliver</td>
-		</tr>
-		<tr>
-			<td>file-type</td>
-			<td>madebyoliver</td>
-		</tr>
-		<tr>
-			<td>fitness</td>
-			<td>madebyoliver</td>
-		</tr>
-		<tr>
-			<td>game</td>
-			<td>madebyoliver</td>
-		</tr>
-		<tr>
-			<td>gastronomy</td>
-			<td>madebyoliver</td>
-		</tr>
-		<tr>
-			<td>grooming</td>
-			<td>madebyoliver</td>
-		</tr>
-		<tr>
-			<td>hand-gestures</td>
-			<td>madebyoliver</td>
-		</tr>
-		<tr>
-			<td>holiday</td>
-			<td>madebyoliver</td>
-		</tr>
-		<tr>
-			<td>household</td>
-			<td>madebyoliver</td>
-		</tr>
-		<tr>
-			<td>interaction</td>
-			<td>madebyoliver</td>
-		</tr>
-		<tr>
-			<td>medical</td>
-			<td>madebyoliver</td>
-		</tr>
-		<tr>
-			<td>monuments</td>
-			<td>madebyoliver</td>
-		</tr>
-		<tr>
-			<td>music</td>
-			<td>madebyoliver</td>
-		</tr>
-		<tr>
-			<td>office</td>
-			<td>madebyoliver</td>
-		</tr>
-		<tr>
-			<td>online-marketing</td>
-			<td>freepik</td>
-		</tr>
-		<tr>
-			<td>outdoor</td>
-			<td>madebyoliver</td>
-		</tr>
-		<tr>
-			<td>pins-and-locations</td>
-			<td>madebyoliver</td>
-		</tr>
-		<tr>
-			<td>productivity</td>
-			<td>madebyoliver</td>
-		</tr>
-		<tr>
-			<td>productivity-and-development</td>
-			<td>madebyoliver</td>
-		</tr>
-		<tr>
-			<td>programming-line</td>
-			<td>freepik</td>
-		</tr>
-		<tr>
-			<td>real-estate</td>
-			<td>madebyoliver</td>
-		</tr>
-		<tr>
-			<td>religion</td>
-			<td>madebyoliver</td>
-		</tr>
-		<tr>
-			<td>romance-lifestyle</td>
-			<td>madebyoliver</td>
-		</tr>
-		<tr>
-			<td>science</td>
-			<td>madebyoliver</td>
-		</tr>
-		<tr>
-			<td>security</td>
-			<td>madebyoliver</td>
-		</tr>
-		<tr>
-			<td>seo-and-analytics</td>
-			<td>madebyoliver</td>
-		</tr>
-		<tr>
-			<td>sewing</td>
-			<td>madebyoliver</td>
-		</tr>
-		<tr>
-			<td>social-media</td>
-			<td>madebyoliver</td>
-		</tr>
-		<tr>
-			<td>sport</td>
-			<td>madebyoliver</td>
-		</tr>
-		<tr>
-			<td>stationery</td>
-			<td>madebyoliver</td>
-		</tr>
-		<tr>
-			<td>symbols</td>
-			<td>madebyoliver</td>
-		</tr>
-		<tr>
-			<td>technology</td>
-			<td>madebyoliver</td>
-		</tr>
-		<tr>
-			<td>transport</td>
-			<td>madebyoliver</td>
-		</tr>
-		<tr>
-			<td>transportation</td>
-			<td>madebyoliver</td>
-		</tr>
-		<tr>
-			<td>travel</td>
-			<td>madebyoliver</td>
-		</tr>
-		<tr>
-			<td>user-interface</td>
-			<td>madebyoliver</td>
-		</tr>
-		<tr>
-			<td>weather</td>
-			<td>madebyoliver</td>
-		</tr>
-		<tr>
-			<td>web-design</td>
-			<td>freepik</td>
-		</tr>
-		<tr>
-			<td>web-interface</td>
-			<td>freepik</td>
-		</tr>
-		<tr>
-			<td>wild-west</td>
-			<td>madebyoliver</td>
-		</tr>
-	</tbody>
-</table>
+[![NPM Version](https://img.shields.io/npm/v/redaxscript-flaticon.svg)](https://npmjs.com/package/redaxscript-flaticon)
+[![License](https://img.shields.io/npm/l/redaxscript-flaticon.svg)](https://npmjs.com/package/redaxscript-flaticon)
 
-			
+
+Packages
+========
+
+| Name                         | Author       |
+|------------------------------|--------------|
+| army-badges                  | madebyoliver |
+| arrows                       | madebyoliver |
+| baby                         | madebyoliver |
+| business                     | madebyoliver |
+| casino-gambling              | madebyoliver |
+| coffee-shop                  | madebyoliver |
+| constructions                | madebyoliver |
+| delivery                     | madebyoliver |
+| design                       | madebyoliver |
+| dialogue                     | madebyoliver |
+| education                    | madebyoliver |
+| emoticons                    | madebyoliver |
+| essential                    | madebyoliver |
+| files-and-folders            | madebyoliver |
+| file-type                    | madebyoliver |
+| fitness                      | madebyoliver |
+| game                         | madebyoliver |
+| gastronomy                   | madebyoliver |
+| grooming                     | madebyoliver |
+| hand-gestures                | madebyoliver |
+| holiday                      | madebyoliver |
+| household                    | madebyoliver |
+| interaction                  | madebyoliver |
+| medical                      | madebyoliver |
+| monuments                    | madebyoliver |
+| music                        | madebyoliver |
+| office                       | madebyoliver |
+| online-marketing             | freepik      |
+| outdoor                      | madebyoliver |
+| pins-and-locations           | madebyoliver |
+| productivity                 | madebyoliver |
+| productivity-and-development | madebyoliver |
+| programming-line             | freepik      |
+| real-estate                  | madebyoliver |
+| religion                     | madebyoliver |
+| romance-lifestyle            | madebyoliver |
+| science                      | madebyoliver |
+| security                     | madebyoliver |
+| seo-and-analytics            | madebyoliver |
+| sewing                       | madebyoliver |
+| social-media                 | madebyoliver |
+| sport                        | madebyoliver |
+| stationery                   | madebyoliver |
+| symbols                      | madebyoliver |
+| technology                   | madebyoliver |
+| transport                    | madebyoliver |
+| transportation               | madebyoliver |
+| travel                       | madebyoliver |
+| user-interface               | madebyoliver |
+| weather                      | madebyoliver |
+| web-design                   | freepik      |
+| web-interface                | freepik      |
+| wild-west                    | madebyoliver |
