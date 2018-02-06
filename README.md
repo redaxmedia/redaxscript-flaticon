@@ -3,9 +3,6 @@ Redaxscript Flaticon
 
 > Flaticon pack for Redaxscript's website.
 
-[![NPM Version](https://img.shields.io/npm/v/redaxscript-flaticon.svg)](https://npmjs.com/package/redaxscript-flaticon)
-[![License](https://img.shields.io/npm/l/redaxscript-flaticon.svg)](https://npmjs.com/package/redaxscript-flaticon)
-
 
 Packages
 ========
