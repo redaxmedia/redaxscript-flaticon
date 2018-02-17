@@ -41,6 +41,7 @@ Packages
 | pins-and-locations           | madebyoliver |
 | productivity                 | madebyoliver |
 | productivity-and-development | madebyoliver |
+| profiles-avatar              | freepik      |
 | programming-line             | freepik      |
 | real-estate                  | madebyoliver |
 | religion                     | madebyoliver |
