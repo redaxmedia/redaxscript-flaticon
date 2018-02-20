@@ -18,8 +18,12 @@ module.exports = grunt =>
 
 	grunt.registerTask('default',
 	[
-		'shell:prepare',
-		'shell:convert',
+		'svgresize',
 		'svgmin'
+	]);
+	grunt.registerTask('svgresize',
+	[
+		'shell:prepare',
+		'shell:convert'
 	]);
 };
