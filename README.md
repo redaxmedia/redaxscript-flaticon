@@ -1,7 +1,7 @@
 Redaxscript Flaticon
 ====================
 
-> Flaticon pack for Redaxscript's website.
+> Flaticon packages for Redaxscript's website.
 
 
 Packages
