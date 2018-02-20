@@ -5,7 +5,7 @@ Redaxscript Flaticon
 
 
 Packages
-========
+--------
 
 | Name                         | Author       |
 |------------------------------|--------------|
