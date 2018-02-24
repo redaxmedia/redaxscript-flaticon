@@ -12,7 +12,8 @@ module.exports = () =>
 				'for path in *',
 				'do mkdir -p ../flaticon/$path',
 				'done'
-			].join(';')
+			]
+			.join(';')
 		},
 		convert:
 		{
@@ -23,7 +24,8 @@ module.exports = () =>
 				'do rsvg-convert $path --output=../flaticon/$path --format=svg --height=24 --width=24 --keep-aspect-ratio',
 				'echo flaticon/$path',
 				'done'
-			].join(';')
+			]
+			.join(';')
 		}
 	};
 
