@@ -13,7 +13,7 @@ module.exports = () =>
 				'do mkdir -p ../flaticon/$path',
 				'done'
 			]
-			.join(';')
+			.join('&&')
 		},
 		convert:
 		{
@@ -25,7 +25,7 @@ module.exports = () =>
 				'echo flaticon/$path',
 				'done'
 			]
-			.join(';')
+			.join('&&')
 		}
 	};
 
